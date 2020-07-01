@@ -1,0 +1,14 @@
+//01.str.length;
+var str="我爱你呦";
+var r=str.length;
+console.log(r);
+//indexof();
+var res=str.indexOf("呦");
+console.log(res);
+//lastIndexOf();
+var res2=str.lastIndexOf("我");
+console.log(res2);
+//charAt();
+var str2="i love China";
+var count=str2.charAt(3);
+console.log(count);
